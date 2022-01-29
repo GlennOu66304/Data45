@@ -75,9 +75,17 @@ html = requests.get(url=url,headers={
 4）图片路径中出现导致编译失败的字符，使用 replace 替换报错字符。
 [总结一下小白编写时遇到的几个问题](https://time.geekbang.org/column/article/76001)
 
+## Novel Craw
+
 [Python3 爬虫实战教程](https://www.w3cschool.cn/python3/python3-enbl2pw9.html)
 
 [Python 爬虫第一战 爬取小说](https://zhuanlan.zhihu.com/p/114591172)
+
+## “NameError: name ‘re’ is not defined”的解决方案
+
+[“NameError: name ‘re’ is not defined”的解决方案](https://blog.csdn.net/mathematican/article/details/118529036)
+
+[Remote end closed connection without response](https://blog.csdn.net/m0_50061234/article/details/119542517)
 
 ## Repo
 
