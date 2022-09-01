@@ -1,7 +1,7 @@
 ## Grammar syntext:
 
-[Python try except 异常处理详解（入门必读）](http://c.biancheng.net/view/4599.html)
-[Python Try-Except inside of Function]()
+[Python try except 异常处理详解（入门必读）](http://c.biancheng.net/view/4599.html)   
+[Python Try-Except inside of Function]()    
 
 ## package issue
 
