@@ -69,11 +69,11 @@ html = requests.get(url=url,headers={
 
 ## Process handle:
 
-1）获取 xpath 时，chrome 浏览器需要安装插件 xpatn-helper；
-2）使用 python3.7，提前引入模块 requests，lxml，selenium，安装这些模块需要更新 pip 至 20 版本；
-3）模拟用户访问浏览器，需要下载 chromedriver.exe,放入 python.exe 所在目录；
-4）图片路径中出现导致编译失败的字符，使用 replace 替换报错字符。
-[总结一下小白编写时遇到的几个问题](https://time.geekbang.org/column/article/76001)
+1）获取 xpath 时，chrome 浏览器需要安装插件 xpatn-helper；  
+2）使用 python3.7，提前引入模块 requests，lxml，selenium，安装这些模块需要更新 pip 至 20 版本；  
+3）模拟用户访问浏览器，需要下载 chromedriver.exe,放入 python.exe 所在目录；  
+4）图片路径中出现导致编译失败的字符，使用 replace 替换报错字符。      
+[总结一下小白编写时遇到的几个问题](https://time.geekbang.org/column/article/76001)     
 
 ## Novel Craw
 
