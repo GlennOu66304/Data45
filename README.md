@@ -5,11 +5,11 @@
 
 ## package issue
 
-[pyecharts](https://pyecharts.org/#/zh-cn/quickstart)
-[NameError: name 'requests' is not defined [closed\]](https://stackoverflow.com/questions/26895371/nameerror-name-requests-is-not-defined).
-[Python 库引用提示：name ‘json‘ is not defined. 问题解决办法](https://blog.csdn.net/qq_38161040/article/details/91410095)
+[pyecharts](https://pyecharts.org/#/zh-cn/quickstart)    
+[NameError: name 'requests' is not defined [closed\]](https://stackoverflow.com/questions/26895371/nameerror-name-requests-is-not-defined).  
+[Python 库引用提示：name ‘json‘ is not defined. 问题解决办法](https://blog.csdn.net/qq_38161040/article/details/91410095)   
 
-Reference:[用 python 画出北上广深的地铁路线动态图](https://github.com/GlennOu66304/Data-Sciences/blob/Quantitative_trading/README.md)
+Reference:[用 python 画出北上广深的地铁路线动态图](https://github.com/GlennOu66304/Data-Sciences/blob/Quantitative_trading/README.md)   
 
 # Mock Up browser
 
